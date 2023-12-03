@@ -32,7 +32,7 @@ const app = {
     isPlaying: false,
     isRanDom: false,
     isRepeat: false,
-     songs: [
+    songs: [
         {
             name: 'An thần',
             singer: 'Low G',
